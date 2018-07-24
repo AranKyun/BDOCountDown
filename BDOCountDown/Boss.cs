@@ -6,9 +6,9 @@ namespace BDOCountDown
     class Boss
     {
         public enum BossType { Kzarka, Nouver, Kranda, Kutum, Offin, Quint, Muraka };
-        public static readonly string[] BossName = { "Kzarka", "Nouver", "Kranda", "Kutum", "Offin", "Quint", "Muraka" };
-        public static readonly string[] BossNameJapanese = { "クザカ", "ヌーベル", "カランダ", "クツム", "オピン", "ギュント", "ムラカ" };
-        public static readonly Brush[] BossColor = { Brushes.Red, Brushes.Orange, Brushes.SkyBlue, Brushes.MediumPurple, Brushes.Yellow, Brushes.Brown, Brushes.Brown };
+        public static readonly string[] BossName = { "Kzarka", "Nouver", "Kranda", "Kutum", "Offin", "Quint", "Muraka", "Gamos" };
+        public static readonly string[] BossNameJapanese = { "クザカ", "ヌーベル", "カランダ", "クツム", "オピン", "ギュント", "ムラカ", "ガーモス" };
+        public static readonly Brush[] BossColor = { Brushes.Red, Brushes.Orange, Brushes.SkyBlue, Brushes.MediumPurple, Brushes.Yellow, Brushes.Brown, Brushes.Brown, Brushes.OrangeRed };
 
         public BossType Type { get; private set; }
 

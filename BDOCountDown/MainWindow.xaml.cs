@@ -31,8 +31,6 @@ namespace BDOCountDown
         public enum FilterItem { Kzarka = 0b1, Kranda = 0b10, Nouver = 0b100, Kutum = 0b1000, Offin = 0b10000, Muraka = 0b100000, Quint = 0b1000000 };
         public int filter = 0;
 
-        //
-
         private const uint WS_EX_LAYERED = 0x80000;
         private const int WS_EX_TRANSPARENT = 0x20;
         private const int GWL_STYLE = (-16);
@@ -223,7 +221,7 @@ namespace BDOCountDown
                 filter = int.Parse(filterString);
             }
 
-            System.IO.Stream stream = Application.GetResourceStream(new Uri("/BossSchedule.txt", UriKind.Relative)).Stream;
+            System.IO.Stream stream = Application.GetResourceStream(new Uri("/BossSchedule-180725.txt", UriKind.Relative)).Stream;
             System.IO.StreamReader reader = new System.IO.StreamReader(stream);
 
             string line;
