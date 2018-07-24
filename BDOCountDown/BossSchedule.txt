@@ -1,0 +1,62 @@
+﻿Kzarka Mon 11:00
+Nouver Mon 11:00
+Kzarka Mon 16:00
+Kutum Mon 16:00
+Kranda Mon 19:00
+Nouver Mon 19:00
+Kranda Mon 23:00
+Kzarka Tue 1:30
+
+Kzarka Tue 11:00
+Kutum Tue 11:00
+Nouver Tue 16:00
+Kutum Tue 16:00
+Nouver Tue 19:00
+Kutum Tue 19:00
+Kranda Tue 23:00
+Kzarka Wed 1:30
+
+--
+--
+Kzarka Wed 16:00
+Nouver Wed 16:00
+Kranda Wed 19:00
+Kzarka Wed 19:00
+Kranda Wed 23:00
+Kutum Thu 1:30
+
+Kzarka Thu 11:00
+Nouver Thu 11:00
+Nouver Thu 16:00
+Kutum Thu 16:00
+Nouver Thu 19:00
+Kutum Thu 19:00
+Offin Thu 23:00
+Kranda Fri 1:30
+
+Kzarka Fri 11:00
+Nouver Fri 11:00
+Nouver Fri 16:00
+Kutum Fri 16:00
+Quint Fri 19:00
+Muraka Fri 19:00
+Kranda Fri 23:00
+Offin Sat 1:30
+
+Kzarka Sat 11:00
+Nouver Sat 11:00
+Kutum Sat 16:00
+Kzarka Sat 16:00
+Kzarka Sat 19:00
+Kranda Sat 19:00
+--
+Kranda Sun 1:30
+
+Kranda Sun 11:00
+Kutum Sun 11:00
+Kranda Sun 16:00
+Kutum Sun 16:00
+Nouver Sun 19:00
+Kutum Sun 19:00
+Offin Sun 23:00
+Kzarka Mon 1:30
